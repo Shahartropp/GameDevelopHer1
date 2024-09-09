@@ -33,7 +33,7 @@ public class NewBehaviourScript : MonoBehaviour
         }
 
     }
-
+//could improve it by accepting the input like so : SwitchingIsGreat(int userInput)
     void SwitchingIsGreat()
     {
         // user has entered an input
